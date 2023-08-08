@@ -1,7 +1,7 @@
 # FUNDA-O-UPDATE
 
 <item>
-<title>[COLOR silver][B] FUNDAÇÃO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] FUNDAÇÃO 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CRFJ5YZASJ3BANMU2ZZXKWMN2IBNTQUU$nome=EP.1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WUF3WCBDXBFYXABINNVZGV7AZAZRZGQK$nome=EP.2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79ba8833d45775d1496228eeda323089a8ba3dea$nome=EP.3</link>
