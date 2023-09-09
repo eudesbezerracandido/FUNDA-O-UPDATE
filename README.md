@@ -27,6 +27,8 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3873df0b8f1d7aae07cc746665c0a619799de40$nome=EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45b688cd7ad548bbe99dbd2cec200fb3f61269b0$nome=EP.6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:988371d8773081b0212e61a6785da58631c32744$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2G4XJMX53MB4WP27L745AY5MV3JZT323$nome=EP.8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DFZQNLJ3Q235FJX42XRE5N64G5QIPTDX$nome=EP.9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nqhGPPerHh7mmvToi0Vd7htQjUB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Inspirada nas obras de romance de Isaac Asimov, Foundation retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.</info>
